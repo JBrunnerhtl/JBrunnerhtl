@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding since **2023**
 - 🌱 I’m currently learning **C#,C,HTML,CSS,JavaScript,Rust,SQL**
 - 🎶 Listening to Pashanim, sombr and Linkin Park
-- 🥇 Cloudflight Coding Contest Top 15 2024
+- 🥇 Cloudflight Coding Contest **Top 15**, 2024
 
 
 <!---
