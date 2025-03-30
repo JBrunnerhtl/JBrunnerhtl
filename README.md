@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBrunnerhtl
+- 👋 Hi, I’m @JBrunnerhtl and student at the HTBLA Leonding
 - 👀 I’m interested in Coding since 2023
 - 🌱 I’m currently learning C#,C,HTML,CSS,JavaScript,Rust,SQL
 
