@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@JBrunnerhtl** and student at the **HTBLA Leonding**
+- 👋 Hi, I’m **@JBrunnerhtl** and I currently attend the HTBLA Leonding in Upper-Austria
 - 👀 I’m interested in Coding since **2023**
 - 🌱 I’m currently learning **C#,C,HTML,CSS,JavaScript,Rust,SQL**
 - 🎶 Listening to Pashanim, Linkin Park
