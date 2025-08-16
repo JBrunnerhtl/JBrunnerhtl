@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@JBrunnerhtl** and I currently attend the HTBLA Leonding in Upper-Austria
-- 👀 I’m interested in Coding since **2023**
+- 👀 I’m interested in Coding since **2022**
 - 🌱 I’m currently learning **C#,C,HTML,CSS,JavaScript,Rust,SQL**
 - 🥇 Cloudflight Coding Contest **Top 15**, 2024
 - [My Website](https://jbrunnerhtl.github.io/My-Website/)
