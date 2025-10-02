@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 - 👋 Hi, I’m **@JBrunnerhtl** and I currently attend the HTBLA Leonding in Upper-Austria
 - 👀 I’m interested in Coding since **2022**
 - 🥇 Cloudflight Coding Contest **Top 15**, 2024
