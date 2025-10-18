@@ -8,6 +8,11 @@
 - [My Website](https://jbrunnerhtl.github.io/personal-website2.0/)
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Development+Student;Java+C#+SQL+React+TS+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
+</div>
+
+
 
 
 # 💻 Tech Stack:
