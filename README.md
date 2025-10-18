@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&lines=Software+Development+Student;Java+CSharp+SQL+React+TS+HTML+CSS+Rust+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Software+Development+Student;Java+CSharp+SQL+React+TS+HTML+CSS+Rust+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
 </div>
 
 
