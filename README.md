@@ -47,13 +47,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JBrunnerhtl&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
+
+
+<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=JBrunnerhtl&theme=merko&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBrunnerhtl&theme=merko&hide_border=true&layout=compact" />
-</p>
+</div>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
