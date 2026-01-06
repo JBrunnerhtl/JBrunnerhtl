@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=900&lines=Software+Development+Student;Java+%26+C%23+%26+SQL+%26+React+%26+TypeScript+%26+Rust;HTL+Leonding+Student;Future+Software+Developer" alt="Typing SVG" />
 </div>
+
 ---
 
 ### 👨‍💻 About Me
