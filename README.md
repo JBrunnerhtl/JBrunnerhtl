@@ -1,30 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
-- 👋 Hi, I’m **@JBrunnerhtl** and I currently attend the HTBLA Leonding in Upper-Austria
-- 👀 I’m interested in Coding since **2022**
-- 🥇 Cloudflight Coding Contest **Top 15**, 2024
-- [Personal-Website](https://jbrunnerhtl.github.io/personal-website2.0/)
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Software+Development+Student;Java+CSharp+SQL+React+TS+HTML+CSS+Rust+Programmer;HTL+Leonding+Student;Future+Softwaredeveloper" alt="Typing SVG" />
-</div>
-
-
-
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JBrunnerhtl&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JBrunnerhtl&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBrunnerhtl&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<h1 align="center">Hi, I'm JBrunnerhtl 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  Software Development Student · HTL Leonding (Upper Austria)
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <a href="https://jbrunnerhtl.github.io/personal-website2.0/">🌐 Personal Website</a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=800&lines=Software+Development+Student;Java+·+C%23+·+SQL+·+React+·+TypeScript+·+Rust;HTL+Leonding;Future+Software+Engineer" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Student at **HTBLA Leonding**
+- 💡 Passionate about coding since **2022**
+- 🏆 **Cloudflight Coding Contest – Top 15 (2024)**
+
+---
+
+### 🧰 Tech Stack
+<p align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JBrunnerhtl&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JBrunnerhtl&theme=merko&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBrunnerhtl&theme=merko&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
